@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1693852557 source:c:\users\seba\desktop\tp\servidor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<time.h>
+	<string.h>
+
